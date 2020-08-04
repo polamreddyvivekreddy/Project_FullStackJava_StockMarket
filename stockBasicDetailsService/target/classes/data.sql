@@ -1,0 +1,14 @@
+INSERT INTO USER (ID , COMPANY_BOARD_OF_DIRECTORS, COMPANY_BRIEF_WRITE_UP,
+ COMPANY_CEO, NAME, COMPANY_SECTOR, COMPANY_TURNOVER,COMPANY_EMAIL)
+ VALUES(1,'Polamreddy Group','Emerging company',
+ 'Polamreddy Vivek Reddy','The Good Tech Company','Service','24,000,000','TGT@mail.com');
+ 
+ INSERT INTO USER (ID , COMPANY_BOARD_OF_DIRECTORS, COMPANY_BRIEF_WRITE_UP,
+ COMPANY_CEO, NAME, COMPANY_SECTOR, COMPANY_TURNOVER,COMPANY_EMAIL)
+ VALUES(2,'The Social Impact Company','Emerging company',
+ 'JSGV Reddy','The_Social_Company','Banking','94,000,000','TSC@mail.com');
+
+ 
+
+ 
+ 
